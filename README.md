@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋:fire: :juggling_person:	
+I'm Nicholas, a software engineer interested in computer vision, mlops, cloud,open source projects and building tech communities. If you find anything interesting in my repo feel free to to and fork and make pull requests.
+
+Currently:
+- I help organize at [Artificial Intelligence Association Ghana](https://aiagh.net/)
+- I also work on open source at [CorvidAI](https://github.com/corvid-ai)
+- An incoming DevOps engineer :see_no_evil:	
+
 
 <!--
 **nodamu/nodamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
