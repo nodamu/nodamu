@@ -1,10 +1,14 @@
-## Hi there 👋:fire: :juggling_person:	
-I'm Nicholas, a software engineer interested in computer vision, mlops, cloud,open source projects and building tech communities. If you find anything interesting in my repo feel free to and fork and make pull requests.
+# Hi there 👋:fire: :juggling_person:	
+I'm Nicholas, a software engineer interested in <em>computer vision, mlops, cloud,open source projects and building tech communities</em>. If you find anything interesting in my repo feel free to fork and make pull requests.
 
 Currently:
 - I help organize at [Artificial Intelligence Association Ghana](https://aiagh.net/)
 - I also work on open source at [CorvidAI](https://github.com/corvid-ai)
 - An incoming DevOps engineer :see_no_evil:	
+
+## Reach me
+- Mail: [nickadamu@gmail.com](mailto:nickadamu@gmail.com)
+
 
 
 <!--
