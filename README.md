@@ -1,5 +1,5 @@
 # Hi there 👋:fire: :juggling_person:	
-I'm Nicholas, a software engineer interested in <em>computer vision, mlops, cloud,open source projects and building tech communities</em>. If you find anything interesting in my repo feel free to fork and make pull requests.
+I'm <strong>Nicholas</strong>, a software engineer interested in <em>computer vision, mlops, cloud,open source projects and building tech communities</em>. If you find anything interesting in my repo feel free to fork and make pull requests.
 
 Currently:
 - I help organize at [Artificial Intelligence Association Ghana](https://aiagh.net/)
