@@ -4,9 +4,7 @@ I'm <strong>Nicholas</strong>, a software engineer interested in <em>computer vi
 Currently:
 - I help organize at [Artificial Intelligence Association Ghana](https://aiagh.net/)
 - I also work on open source at [CorvidAI](https://github.com/corvid-ai)
-- 🔭 I’m currently working on Mobile ML with Mediapipe 
-- NLP for Ghanaian languages
-- DevOps Engineer 	
+- I currently work as a DevOps Engineer
 
 ## Reach me
 - Website: https://nickadamu.live/
