@@ -30,7 +30,7 @@ Currently I:
 - Contribute examples to [mediapipe.dev](https://github.com/mgyaong/awesome-mediapipe/)
 
 ## Reach me
-- Website: https://nickadamu.live/
+- Website: https://nickadamu.tech/
 - Mail: [nickadamu@gmail.com](mailto:nickadamu@gmail.com)
 
 
