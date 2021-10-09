@@ -1,7 +1,7 @@
 # Hi there 👋:fire: :juggling_person:	
-I'm <strong>Nicholas</strong>, a software engineer interested in <em>Computer Vision, MLOps, Cloud,Open Source projects, Distributed Systems and building tech communities</em>. If you find anything interesting in my repo feel free to fork and make pull requests.
+I'm <strong>Nicholas</strong>, a software engineer interested in <em>Computer Vision, MLOps, Cloud, Open source projects, Distributed Systems and building tech communities</em>. If you find anything interesting in my repo feel free to fork and make pull requests.
 
-Technologies I work with are:
+Technologies I work with but not limited to are:
 - Java
 - Spring Boot
 - Spring Cloud
