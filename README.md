@@ -1,36 +1,9 @@
 # Hi there 👋:fire: :juggling_person:	
 I'm <strong>Nicholas</strong>, a software engineer interested in <em>Computer Vision, MLOps, Cloud, Open source projects, Distributed Systems and building tech communities</em>. If you find anything interesting in my repo feel free to fork and make pull requests.
 
-Technologies I work with but not limited to are:
-- Java
-- Spring Boot
-- Spring Cloud
-- Golang
-- [Temporal](temporal.io)
-- C++
-- Linux
-- Mediapipe
-- Python
-- [Fast API](https://fastapi.tiangolo.com/)
-- Tensorflow
-- Jenkins
-- Azure DevOps
-- Splunk
-- Docker
-- Kubernetes
-- Grafana
-- Prometheus
-- Influx DB
-- IBM API Connect
-
-Currently I:
-- Help organize at [Artificial Intelligence Association Ghana](https://aiagh.net/)
-- Also work on open source at [CorvidAI](https://github.com/corvid-ai)
-- Work as a DevOps Engineer
-- Contribute examples to [mediapipe.dev](https://github.com/mgyaong/awesome-mediapipe/)
 
 ## Reach me
-- Website: https://nickadamu.tech/
+
 - Mail: [nickadamu@gmail.com](mailto:nickadamu@gmail.com)
 
 
