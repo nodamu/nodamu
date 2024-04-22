@@ -1,5 +1,5 @@
-# Hi there 👋:fire: :juggling_person:	
-I'm <strong>Nicholas</strong>, a software engineer interested in <em>Computer Vision, MLOps, Cloud, Open source projects, Distributed Systems and building tech communities</em>. If you find anything interesting in my repo feel free to fork and make pull requests.
+# Hi there 👋
+I'm <strong>Nicholas</strong>, an engineer specializing in <em>Cloud Native Technologies, ML, Computer Vision, Distributed Systems and building tech communities</em>. If you find anything interesting in my repo feel free to fork and make pull requests.
 
 
 ## Reach me
